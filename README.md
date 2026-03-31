@@ -6,5 +6,5 @@ The DLP is composed of the following modules. Module 1: Participants created an 
 
 GitHub - https://github.com/harsh25bcy10235-alt
 Linkedin -https://www.linkedin.com/in/harsh-pathak-9aaa053bb?utm_source=share_via&utm_content=profile&utm_medium=member_android
-Kaggle - 
+Kaggle - https://www.kaggle.com/harshpathakpanditjii
 Google Form -https://docs.google.com/forms/d/e/1FAIpQLSfQPyEKGD_eX7WZNEByGjDIIzSLJ3QM15SotkKpAd1gKeKFwQ/viewform?usp=publish-editor
