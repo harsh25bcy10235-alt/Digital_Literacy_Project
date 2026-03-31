@@ -5,6 +5,6 @@ PROJECT OVERVIEW :- This couBCYrse requires students to develop and submit a Dig
 The DLP is composed of the following modules. Module 1: Participants created an infographic for digital literacy to provide information on how to use technology in a safe and effective manner. Module 2: Participants developed a professional digital portfolio using services such as GitHub and LinkedIn. Module 3: Participants practiced coding on a coding platform and created a Google Form for the purposes of print collaboration and data collection. Module 4: Participants learned how to write professional emails and how to communicate responsibly on social media. Module 5: Participants studied the various types of cybercrime and developed a class project around a case study and a safety checklist.
 
 GitHub - https://github.com/harsh25bcy10235-alt
-Linkedin -
+Linkedin -https://www.linkedin.com/in/harsh-pathak-9aaa053bb?utm_source=share_via&utm_content=profile&utm_medium=member_android
 Kaggle - 
 Google Form -https://docs.google.com/forms/d/e/1FAIpQLSfQPyEKGD_eX7WZNEByGjDIIzSLJ3QM15SotkKpAd1gKeKFwQ/viewform?usp=publish-editor
